@@ -2,7 +2,7 @@
 
 # FTMPL: fast (and typesafe) templating for Golang
 
-ftmpl is a fast/compiled/typesafe templating "language" for golang.
+ftmpl is a fast/compiled/typesafe templating "language" for golang
 
 ## Why ftmpl?
 
